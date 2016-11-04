@@ -3,42 +3,42 @@
         {
             "id": 1,
             "name": "Biology",
-            "description": This class is an introduction to biology.,
+            "description": "This class is an introduction to biology.",
             "price": "1200",
-            "length": 3 months ,
+            "length": "3 months" ,
 
         },
 
         {
         "id": 2,
         "name": "Chemistry",
-        "description": This class is an introduction to chemistry,
+        "description": "This class is an introduction to chemistry.",
         "price": "1300",
-        "length": 3 months ,
+        "length": "3 months ",
 
         },
 
         {
         "id": 3,
         "name": "College Algebra",
-        "description": This class is an introduction to alegbra.,
+        "description": "This class is an introduction to alegbra.",
         "price": "1400",
-        "length": 3 months ,
+        "length": "3 months" ,
         },
 
         {
         "id": 4,
         "name": "Sociology",
-        "description": This class is an introduction to sociology.,
+        "description": "This class is an introduction to sociology.",
         "price": "1500",
-        "length": 3 months ,
+        "length": "3 months" ,
         },
 
         {
         "id": 5,
         "name": "History",
-        "description": This class is an introduction to history.,
+        "description": "This class is an introduction to history.",
         "price": "1600",
-        "length": 3 months ,
+        "length": "3 months" ,
         },
         
